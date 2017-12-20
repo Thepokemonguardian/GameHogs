@@ -2,5 +2,5 @@
 
 This site will tell you when we make a new game
 ________________________________________________________________________________________________________________________________________________________________________________________
-(copy and paste url)
+(copy and paste 1 url at a time)
 https://flowlab.io/game/play/750702
