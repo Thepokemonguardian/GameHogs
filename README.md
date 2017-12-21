@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 <li><strong><a href="./updatelog.html">Update Log</a></strong></li>
-
+<li><strong><a href="./games.html">Games</a></strong></li>
 
 
 
