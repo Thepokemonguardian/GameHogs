@@ -12,8 +12,8 @@ ________________________________________________________________________________
 
 
 
-update log:
-12/20/17 update #1 Game 1 done and theme updated
+<li><strong><a href="./updatelog.html">Update Log</a></strong></li>
+
 
 
 
