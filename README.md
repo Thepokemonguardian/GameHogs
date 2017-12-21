@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 
 
-<li><strong><a href="./updatelog.html">Update Log</a></strong></li>
+
 
 
 
@@ -35,7 +35,6 @@ ________________________________________________________________________________
 (copy and paste 1 url at a time)
 
 
-</a></strong></li>"./save_the_people">Save_the_people</a></strong></li>
 
 
 
