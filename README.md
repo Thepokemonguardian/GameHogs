@@ -1,8 +1,6 @@
 ## Welcome to GameHogs Offical Site
 
 ![52040171cf5340e5b1c93784544bb378](https://user-images.githubusercontent.com/33466744/34235764-6fdb2c32-e5b9-11e7-8d1a-c9dc9f8b25c7.png)
-
-
 This site will tell you when we make a new game
 ________________________________________________________________________________________________________________________________________________________________________________________
 
